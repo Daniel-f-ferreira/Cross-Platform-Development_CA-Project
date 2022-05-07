@@ -1,0 +1,22 @@
+{
+  "name": "human-resources",
+  "version": "1.0.0",
+  "description": "Human Resources application",  
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "email" : "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.3",
+    "path": "^0.12.7",
+    "xml2js": "^0.4.23",
+    "yarn": "^1.22.18"
+  },
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
